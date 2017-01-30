@@ -1,5 +1,5 @@
 #Vandy Repository
 ##Vandy Subtitle
-(Vandy)(http://www.vanderbilt.edu)
+[Vandy](http://www.vanderbilt.edu)
 
 Test Repository
